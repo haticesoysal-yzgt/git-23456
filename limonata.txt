@@ -1,7 +1,7 @@
  limonata tarifi:
 
  su
-1 küp şker
+1 küp şker conflict
  limonata
  nane
  
